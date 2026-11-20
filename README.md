@@ -236,6 +236,7 @@ Boards focused on remote-first or fully remote tech roles, popular with European
 - [Arc.dev](https://arc.dev) - Remote jobs platform for developers.
 - [Otta](https://otta.com) - Startup and scaleup jobs, remote-friendly.
 - [Himalayas](https://himalayas.app) - Remote tech job board with great company profiles.
+- [Remote1st](https://www.remote1stjobs.com) - Remote jobs across the USA, UK, Canada, Europe and Australia, with a hire-from check on every listing.
 
 ---
 
